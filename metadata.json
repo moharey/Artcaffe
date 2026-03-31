@@ -1,0 +1,5 @@
+{
+  "name": "Artcaffe - Nairobi's Premier Café & Bakery",
+  "description": "A high-converting, responsive website for Artcaffe featuring online ordering, table reservations, and a loyalty program.",
+  "requestFramePermissions": ["geolocation"]
+}
